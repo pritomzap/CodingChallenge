@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlatinaCodingChallenge</string>
+    <string name="app_common_api_error">Something went wrong</string>
+    <string name="title_activity_all_films">AllFilmsActivity</string>
+    <string name="title_activity_flims">NobleListActivity</string>
+    <string name="title_activity_noble_details">NobleDetailsActivity</string>
+    <string name="app_common_internet_not_connected">No internet connection found</string>
+</resources>

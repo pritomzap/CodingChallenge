@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846862913702",
+    "project_id": "platinacodingchallenge",
+    "storage_bucket": "platinacodingchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846862913702:android:9311e688b8b9f2b628e467",
+        "android_client_info": {
+          "package_name": "com.platinacode.challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846862913702-3jiiialcv6tdbprgk2nnqkk26tq9j0a3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.platinacode.challenge",
+            "certificate_hash": "7a0f31b4b579237617d0f10c17c995218de60d4a"
+          }
+        },
+        {
+          "client_id": "846862913702-mkjs1fc7elrcmrlp4agi0u5o032vbokt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKTzkjtwkIUllqX4WqZjUoV60M9sO6_PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846862913702-mkjs1fc7elrcmrlp4agi0u5o032vbokt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
