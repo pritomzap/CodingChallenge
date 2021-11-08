@@ -1,2 +1,2 @@
-# PlatinaCodingChallenge
+CodingChallenge
 Code Challenge: Android Engineer Choose any Public API and make an app that would show a list of the items of that API and an item details screen upon tapping the item.  Use your preferred architecture, configurations, tools, libraries, patterns to develop it  Be prepared to explain your framework, language, and architectural choices  Upload your project to GitHub  Follow correct UI state management (Loading, Error, Empty, Etc.)  Deploy your project via Firebase App Distribution  Try to make it as close to a production setup as possible  Bonus: Use Jetpack Compose  Bonus: Use Kotlin Multiplatform  Prepare for a 25-minute presentation to show us how you built this
